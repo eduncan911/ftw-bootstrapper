@@ -1,4 +1,4 @@
-ftwcoders-bootstrapper
+ftw-bootstrapper
 ======================
 
 A convention-based approach using a MEF-like discovery pattern to register IoC objects using simple interfaces.
